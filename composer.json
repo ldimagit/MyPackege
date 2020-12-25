@@ -1,0 +1,15 @@
+{
+    "name": "ldima/AddString",
+    "description": "Test merger sting library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitryi",
+            "email": "ldima@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    }
+}
