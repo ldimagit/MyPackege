@@ -1,5 +1,5 @@
 {
-    "name": "ldima/AddString",
+    "name": "ldima/add-string",
     "description": "Test merger sting library",
     "type": "library",
     "license": "MIT",
